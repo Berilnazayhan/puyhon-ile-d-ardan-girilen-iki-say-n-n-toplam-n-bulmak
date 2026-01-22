@@ -1,0 +1,1 @@
+# puyhon-ile-d-ardan-girilen-iki-say-n-n-toplam-n-bulmak
